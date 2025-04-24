@@ -1,4 +1,7 @@
 
-public class ClassC
+namespace myFramework
 {
+    public class ClassC
+    {
+    }
 }
