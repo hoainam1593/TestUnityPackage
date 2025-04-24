@@ -2,7 +2,7 @@
     "name": "com.hoainam.gameframework",
     "displayName": "GameFramework",
     "author": { "name": "Hoai Nam", "url": "https://github.com/hoainam1593" },
-    "version": "0.0.3",
+    "version": "0.0.4",
     "unity": "6.0",
     "description": "comprehensive solution to game development",
     "keywords": [ "game" ],
